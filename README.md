@@ -62,6 +62,6 @@ Semester: Fall 2025
 ---
 
 ## 📸 Demo Video
-[https://youtu.be/TmylB9y1O68](url)
+https://youtu.be/TmylB9y1O68
 
 
