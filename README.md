@@ -62,8 +62,6 @@ Semester: Fall 2025
 ---
 
 ## 📸 Demo Video
-[https://youtu.be/TmylB9y1O68]([url](https://youtu.be/TmylB9y1O68))
+[https://youtu.be/TmylB9y1O68](url)
 
-⸻
 
-Would you like me to customize that README to include actual screenshots from your app (you can upload them and I’ll show you where to place them in Markdown)?
